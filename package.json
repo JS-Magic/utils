@@ -1,0 +1,36 @@
+{
+  "name": "@js-magic/utils",
+  "version": "1.0.0",
+  "description": "This package contains utils functions/methods for different situations",
+  "author": "Dan Cornilov",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JS-Magic/utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JS-Magic/utils/issues"
+  },
+  "homepage": "https://github.com/JS-Magic/utils",
+  "keywords": [
+    "JS Magic",
+    "utils js methods"
+  ],
+  "contributors": [
+    {
+      "name": "Dan Cornilov",
+      "url": "https://github.com/JS-Magic/utils"
+    }
+  ],
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  }
+}
